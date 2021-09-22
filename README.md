@@ -1,13 +1,11 @@
-# netflix-clone
-
-Project : Netflix Clone
-Name – Madhusudan Pareek
-(Full-Stack Web Developer Intern)
-Linked In : https://www.linkedin.com/in/madhusudan-pareek/
-Github : https://github.com/MadMods96/netflix-clone
-Live Project Link : 
-Hacker Rank : https://www.hackerrank.com/pareekmadhusuda1
-Project Details 
+Project : Netflix Clone<br>
+Name – Madhusudan Pareek<br>
+(Full-Stack Web Developer Intern)<br>
+Linked In : https://www.linkedin.com/in/madhusudan-pareek/<br>
+Github : https://github.com/MadMods96/netflix-clone<br>
+Live Project Link : <br>
+Hacker Rank : https://www.hackerrank.com/pareekmadhusuda1<br><br><br><br>
+**Project Details**<br>
 This Project is Clone of Netflix I have made this clone as a project given by Stige as my internship Project.The main aim behind developing this clone is to sharp my skills(HTML/CSS/JAVASCRIPT), I have completed many projects in frontend before this but this project helped me to understand concepts of making a responsive website.
 Doing a project like this helps in understanding work of a Web Developer in real life, and I feel like I have achieved my aim after developing this clone. I have given my 100% into making this website exact similar to original Netflix website.
 This Project Has 3 main Pages Which are :
@@ -20,62 +18,32 @@ This Is the Home page of the Netflix.com website. Let us see the home page devel
  
 This looks similar to original one as I have used different font style but still its similar.
 Now, look more into project. Let us see similarities of pages in real and clones. Here is the first section showing a picture which shows a Netflix feature that it can be streamed on Tv too.
-Original :
+**Original** :
  
 
-Here The Clone : 
- 
-
-Original :
-In this feature Netflix showing that its videos can be saved offline to watch while operating without any mobile data charges.
-
- 
-
-Clone:
- 
-
-Original :
-Here Netflix is showing his dynamic environment that it is very responsive application and an be watched over many devices without any issues.
- 
-
-Clone :
- 
-
-Original :
-Here in this section Netflix is showing that user can create a seprate space for children to browse the animated cartoons and much more.
- 
-
-Clone :
- 
-
-Original :
-Here Netflix had put some frequently asked questions to answer some basic questions for best user interface  and a email input to get regular updates.
- 
-
-Clone :
- 
-
-This Website Also includes A footer, footer basically contains important links for user.
-Original :
+**Here The Clone** : 
  
 
 
-Clone  :
- 
+**Approach**<br>
+I have Taken All Pics And videos From Netflix database itself but used my own skills to code and develop. I have used visual studio code as editor then I have written down the sections and features of website in a notebook and then I have downloaded the necessary files and images.
 
-This Was Home Page, now lets take a look at sign in page :
-#Sign Up Page
-This is basically a sign up page as most of website have to Handel the accounts for paid user, user can login/ sign up on this form and then only he can enjoy the full features of website.
-Clone Website :
+I was saving all changes and gone with some tutorials to understand some necessary concepts after that I have developed the home page and designed it then developed sign in page with same footer and at last made a browser page which is only accessible to paid members only.
 
- 
-Original website :
- 
+Languages Used
+In Developing Netflix clone I Have Used Three Languages Mainly Used to make a web page are :
+1.	HTML
+2.	CSS
+3.	JAVASCRIPT
+I have used visual Studio Code to Write And Check My Code because it provides the facility of live server on which changes take place automatically when we save our code.
+<br>**Why HTML/CSS and JS?**<br>
+HTML helped me to make a good structure of webpage and it has given me elements to move ahead in adjusting them.
+CSS helped me to design my web page to look attractive and User friendly, also it made easy browse for user and made my website fully responsive.
+JAVASCRIPT helped me to provide a good and functional existence on web page. Also it helped me to hide element when they are of no use or till they are not used.
 
-#Browse Page
-This browse page is not publicly accessible to all only members who have paid for subscription are allowed to browse and watch all.
+**Feedback:**
+I want to thank you for giving this amazing topic for the project I have used my own skills to develop this whole website and this has developed a level of confidence and I feel more confident then back I was doing.
 
-
-
+Thank You….
 
 
