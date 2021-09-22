@@ -36,7 +36,7 @@ Languages Used
 In Developing Netflix clone I Have Used Three Languages Mainly Used to make a web page are :
 1.	HTML
 2.	CSS
-3.	JAVASCRIPT
+3.	JAVASCRIPT<br>
 I have used visual Studio Code to Write And Check My Code because it provides the facility of live server on which changes take place automatically when we save our code.
 <br>**Why HTML/CSS and JS?**<br>
 HTML helped me to make a good structure of webpage and it has given me elements to move ahead in adjusting them.
