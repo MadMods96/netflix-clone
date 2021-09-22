@@ -19,12 +19,14 @@ This Is the Home page of the Netflix.com website. Let us see the home page devel
 This looks similar to original one as I have used different font style but still its similar.
 Now, look more into project. Let us see similarities of pages in real and clones. Here is the first section showing a picture which shows a Netflix feature that it can be streamed on Tv too.
 **Original** :
- 
+ ![](screenshots/Screenshot%20(42).png)
 
-**Here The Clone** : 
- 
+**Here The Clone** : <br>
+![](screenshots/Screenshot%20(49).png)
 
 
+I had Added a browser feature but it is only availale for paid members but i have made it somehow possible to show you guys here itself.
+You can also see deployment of this project.<br>
 **Approach**<br>
 I have Taken All Pics And videos From Netflix database itself but used my own skills to code and develop. I have used visual studio code as editor then I have written down the sections and features of website in a notebook and then I have downloaded the necessary files and images.
 
