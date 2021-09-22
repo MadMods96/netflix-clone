@@ -13,6 +13,8 @@ This Project Has 3 main Pages Which are :
 2.	Sign In Page
 3.	Browse Page  
 #Home Page – Original Page at https://www.netflix.com/in/
+
+<br>##Please Ignore Php As only used to deploy the website on Heruku##<br>
  
 This Is the Home page of the Netflix.com website. Let us see the home page developed by me in my project.
  
