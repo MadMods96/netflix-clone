@@ -1,5 +1,5 @@
 # netflix-clone
 
-#Hi Guys
+<h1>Hi Guys</h1>
 
-i had made a netflix clone with the help of HTML CSS and JAVASCRIPT
+i have made a netflix clone with the help of HTML CSS and JAVASCRIPT
