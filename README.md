@@ -3,7 +3,7 @@ Name – Madhusudan Pareek<br>
 (Full-Stack Web Developer Intern)<br>
 Linked In : https://www.linkedin.com/in/madhusudan-pareek/<br>
 Github : https://github.com/MadMods96/netflix-clone<br>
-Live Project Link : <br>
+Live Project Link :https://netflix-clone-madmods.herokuapp.com/ <br>
 Hacker Rank : https://www.hackerrank.com/pareekmadhusuda1<br><br><br><br>
 **Project Details**<br>
 This Project is Clone of Netflix I have made this clone as a project given by Stige as my internship Project.The main aim behind developing this clone is to sharp my skills(HTML/CSS/JAVASCRIPT), I have completed many projects in frontend before this but this project helped me to understand concepts of making a responsive website.
