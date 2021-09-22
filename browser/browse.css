@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: black;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+.bg_img{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+  }
+  .on_page #sign{
+      position: absolute;
+      height: 230px;
+      width: 350px;
+      margin-top: 130px;
+      margin-left: 50px;
+  }
+  .on_page h3{
+    margin-left: 50px;
+    margin-top: 370px;
+  }
+  .on_page p{
+    margin-left: 50px;
+  }
+  .navbar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 3% 5%;
+    z-index: 10;
+  }
+
+  .navbar__brand {
+    width: 100px;
+    height: 100%;
+  }
+  
+  .brand__logo {
+    width: 100%;
+    height: 100%;
+  }
+  .vid_container{
+      position: absolute;
+      width: 100%;
+      height: 100%;
+  }
+  #myVideo{
+      position: absolute;
+      margin-top: 650px;
+      margin-left: 300px;
+      box-shadow: 30px 30px 30px 30px black;
+  }
+  .language__drop__down {
+    background: transparent;
+    border: none;
+    color: white;
+  }
+  .first_win{
+      position: absolute;
+      margin-top: 650px;
+  }
+  .second_win{
+    position: absolute;
+    margin-top: 850px;
+}
+.third_win{
+    position: absolute;
+    margin-top: 1250px;
+}
+.fourth_win{
+    position: absolute;
+    margin-top: 1050px;
+}
+  .language__drop__down:focus {
+    outline: none;
+  }
+  
+  .dropdown__container {
+    border: 1px solid white;
+    padding: 0.4rem;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.4);
+  }
+  
+  .signin__button {
+    background-color: #dc030f;
+    border: 1px solid #dc030f;
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+  }
+  
+  .navbar__nav__items {
+    display: flex;
+    gap: 10px;
+  }
+  .down_content{
+      margin-left: 75px;
+      margin-right: 50px;
+      position: relative;
+  }
+  .divs_content{
+      display: inline-flex;
+  }
+  
+  .divs_content img{
+    height: 138px;
+    width: 226px;
+    transition: 0.5s;
+  }
+  .divs_content img:hover{
+      height: 180px;
+      width: 300;
+  }
+  .hero__bg__image__container {
+    width: 100%;
+    height: 80vh;
+  }
+  
+  .hero__bg__image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .hero__bg__overlay {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 80vh;
+    background: rgba(0, 0, 0, 0.4);
+    background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.8) 0,
+      rgba(0, 0, 0, 0) 60%,
+      rgba(0, 0, 0, 0.8) 100%
+    );
+  }
+.on_page{
+    position: absolute;
+    width: 400px;
+    z-index: 1;
+  }
+
+.on_page #play{
+    margin-left: 50px;
+    margin-top: 10px;
+    height: 40px;
+    width: 100px;
+    font-weight: 400px;
+    text-transform: uppercase;
+}
+.on_page #info{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 40px;
+    width: 100px;
+    background-color: grey;
+    border: none;
+    text-transform: uppercase;
+}
+
+.main{
+    position: relative;
+}
+@media (min-width: 1024px) {
+footer {
+    padding: 2rem 25rem;
+    justify-content: flex-start;
+    text-align: left;
+    align-items: center;
+  }
+
+  .footer__row__2 {
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+
+  .footer__row__1,
+  .footer__row__3,
+  .footer__row__4 {
+    align-self: center;
+  }
+}
+
+footer {
+    position: absolute;
+    margin-top: 1500px;
+    padding: 2rem 1rem;
+    color: #757575;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .footer__row__2 {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .footer__row__1 > h4 {
+    font-size: 15px;
+    font-weight: 500;
+  }
+  
+  .footer__row__3 > .dropdown__container {
+    width: fit-content;
+    border: 1px solid #757575;
+    color: #757575;
+  }
